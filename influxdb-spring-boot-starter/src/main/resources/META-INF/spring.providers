@@ -1,0 +1,1 @@
+providers: influxdb-spring-boot-autoconfigure
